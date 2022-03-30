@@ -1,1 +1,1 @@
-to display content list of your directory
+to change users directory to home
