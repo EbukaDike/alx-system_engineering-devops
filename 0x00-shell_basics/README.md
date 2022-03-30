@@ -1,1 +1,1 @@
-script to print out the working directory
+to display content list of your directory
