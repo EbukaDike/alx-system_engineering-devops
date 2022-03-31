@@ -1,1 +1,1 @@
-print a type of file
+to create a file in tmp
