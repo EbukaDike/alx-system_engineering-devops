@@ -1,1 +1,1 @@
-display content in a long format
+display current dir including hidden files starting with .
