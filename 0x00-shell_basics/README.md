@@ -1,1 +1,1 @@
-copy all upper case files
+delet all files starting with /root
