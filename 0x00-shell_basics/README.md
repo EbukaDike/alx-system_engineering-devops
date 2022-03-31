@@ -1,1 +1,1 @@
-delet all files starting with /root
+to create a dir in a dir
