@@ -1,1 +1,1 @@
-to change owner and group owner
+to change file with condition
