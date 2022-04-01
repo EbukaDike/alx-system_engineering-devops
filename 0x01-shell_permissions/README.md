@@ -1,1 +1,1 @@
-to multiple access
+permits everybody
