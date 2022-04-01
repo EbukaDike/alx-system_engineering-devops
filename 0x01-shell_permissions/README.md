@@ -1,1 +1,1 @@
-to print group users
+script to create an empty file
