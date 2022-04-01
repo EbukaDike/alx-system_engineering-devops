@@ -1,1 +1,1 @@
-creates a dir with a permission
+script to change group
