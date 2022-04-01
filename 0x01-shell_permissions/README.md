@@ -1,1 +1,1 @@
-all directories permission
+creates a dir with a permission
