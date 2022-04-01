@@ -1,1 +1,1 @@
-alx is not easy
+all directories permission
