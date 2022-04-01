@@ -1,1 +1,1 @@
-only permit all users but owner and groups
+set file mode
