@@ -1,1 +1,1 @@
-permission
+to multiple access
