@@ -1,1 +1,1 @@
-to change owner
+to change owner and group owner
